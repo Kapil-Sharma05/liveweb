@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/liveweb/static/css/main.f1db70be.css",
+    "main.js": "/liveweb/static/js/main.235cc1e9.js",
+    "static/media/pexels-2022395.mp4": "/liveweb/static/media/pexels-2022395.23831cc34fb633cb8f82.mp4",
+    "static/media/joecalih-UmTZqmMvQcw-unsplash.jpg": "/liveweb/static/media/joecalih-UmTZqmMvQcw-unsplash.3aa8674865dcd0d8d7b9.jpg",
+    "static/media/pexels-alexander-suhorucov-6457579.jpg": "/liveweb/static/media/pexels-alexander-suhorucov-6457579.24f354ec9b4a13ea622f.jpg",
+    "static/media/nainoa-shizuru-unsplash-blur.jpg": "/liveweb/static/media/nainoa-shizuru-unsplash-blur.d64117028dd774bf77bd.jpg",
+    "static/media/abstral-official-bdlMO9z5yco-unsplash.jpg": "/liveweb/static/media/abstral-official-bdlMO9z5yco-unsplash.011fb40ad0f5f079fe63.jpg",
+    "static/media/edward-unsplash-blur.jpg": "/liveweb/static/media/edward-unsplash-blur.3c63cbc1402da003868a.jpg",
+    "static/media/soundtrap-rAT6FJ6wltE-unsplash.jpg": "/liveweb/static/media/soundtrap-rAT6FJ6wltE-unsplash.fbece1b6a345ad256846.jpg",
+    "index.html": "/liveweb/index.html",
+    "main.f1db70be.css.map": "/liveweb/static/css/main.f1db70be.css.map",
+    "main.235cc1e9.js.map": "/liveweb/static/js/main.235cc1e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1db70be.css",
+    "static/js/main.235cc1e9.js"
+  ]
+}
